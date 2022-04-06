@@ -31,7 +31,7 @@ header{
 }
 .banner{
     height: 600px;
-    /* background-image: url(../img/Banner.png); */
+    background-image: url("src/assets/img/Banner.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 10%;
@@ -80,7 +80,7 @@ header{
     width: 150px;
 }
 .secao-sobre{
-    /* background-image: url(../img/cod.png); */
+    background-image: url("src/assets/img/cod.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -47,7 +47,7 @@ function renderizarNoticias(){
         const noticias = listaNoticia[index];
 
         template += `<div class="cardnews">
-        <img src="img/noticia 1.png" alt="Foto dos acessorios">
+        <img src="assets/img/noticia 1.png" alt="Foto dos acessorios">
         <h3>${noticias.titulo}</h3>
         <p>${noticias.descricao}</p>
     </div>`
